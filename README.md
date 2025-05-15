@@ -6,8 +6,8 @@ A structured path to go from beginner to full-stack developer with the MERN stac
 
 | **Step** | **Skill/Topic**                | **Learn This**                                             | **Project Idea**           |
 | -------- | ------------------------------ | ---------------------------------------------------------- | -------------------------- |
-| 1️⃣      | HTML & CSS Basics              | Semantic HTML, Flexbox, Grid, Media Queries                | Personal Portfolio Website |
-| 2️⃣      | JavaScript Fundamentals        | Variables, Data Types, Functions, Loops, Arrays, Objects   | Calculator App             |
+| 1️⃣      | HTML & CSS Basics              | Semantic HTML, Flexbox, Grid, Media Queries                | Responsive Personal Portfolio Website |
+| 2️⃣      | JavaScript Fundamentals        | Variables, Data Types, Functions, Loops, Arrays, Objects   | Typing Speed Tesping App             |
 | 3️⃣      | JavaScript Advanced Concepts   | DOM Manipulation, Events, Callbacks, Promises, Async/Await | To-Do List App             |
 | 4️⃣      | React.js                       | Components, Props, State, Hooks, React Router              | Weather App                |
 | 5️⃣      | Node.js & Express.js           | Server Setup, Routing, Middleware, REST APIs               | Blog Backend               |
